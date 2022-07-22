@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hellouser/static/css/main.509f803e.css",
-    "main.js": "/hellouser/static/js/main.515a9dc1.js",
+    "main.js": "/hellouser/static/js/main.27d6e0fe.js",
     "index.html": "/hellouser/index.html",
     "main.509f803e.css.map": "/hellouser/static/css/main.509f803e.css.map",
-    "main.515a9dc1.js.map": "/hellouser/static/js/main.515a9dc1.js.map"
+    "main.27d6e0fe.js.map": "/hellouser/static/js/main.27d6e0fe.js.map"
   },
   "entrypoints": [
     "static/css/main.509f803e.css",
-    "static/js/main.515a9dc1.js"
+    "static/js/main.27d6e0fe.js"
   ]
 }
